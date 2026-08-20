@@ -42,6 +42,8 @@
   --status-ok-text: #1f7a4c;
   --status-sold-bg: rgba(165, 70, 43, 0.12);
   --status-sold-text: #a5462b;
+  --status-reserved-bg: rgba(184, 134, 11, 0.14);
+  --status-reserved-text: #9a6c0d;
 
   --shadow: 0 24px 55px -22px rgba(32, 43, 22, 0.28);
   --shadow-sm: 0 12px 26px -16px rgba(32, 43, 22, 0.22);
@@ -375,6 +377,7 @@ ul { margin: 0; padding: 0; list-style: none; }
 }
 .status--disponible { background: var(--status-ok-bg); color: var(--status-ok-text); }
 .status--vendido { background: var(--status-sold-bg); color: var(--status-sold-text); }
+.status--reservado { background: var(--status-reserved-bg); color: var(--status-reserved-text); }
 
 .unit-card__specs { display: flex; flex-wrap: wrap; gap: 8px 14px; margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--line); }
 .unit-card__specs li { display: flex; align-items: center; gap: 7px; font-size: 0.82rem; color: var(--ink-soft); }
