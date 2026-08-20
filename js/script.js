@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
       { code: "C7", title: "Dep. C7", tag: "Dúplex", area: "64.39", status: "disponible", dorm: "2 dormitorios", banos: "1 baño", extra: "Balcón 5.67 m²", ficha: "img/fichas/C7.jpg", thumb: "img/fichas/thumbs/C7.jpg" },
       { code: "C8", title: "Suite C8", area: "38.84", status: "disponible", dorm: "1 dormitorio", banos: "1 baño", extra: "Balcón 2.81 m²", ficha: "img/fichas/C8.jpg", thumb: "img/fichas/thumbs/C8.jpg" },
       { code: "C9", title: "Suite C9", area: "38.84", status: "disponible", dorm: "1 dormitorio", banos: "1 baño", extra: "Balcón 2.81 m²", ficha: "img/fichas/C9.jpg", thumb: "img/fichas/thumbs/C9.jpg" },
-      { code: "C10", title: "Dep. C10", tag: "Dúplex + Terraza", area: "89.92", status: "reservado", dorm: "2 dormitorios", banos: "2 baños", extra: "Terraza 8.19 m²", ficha: "img/fichas/C10.jpg", thumb: "img/fichas/thumbs/C10.jpg" },
+      { code: "C10", title: "Dep. C10", tag: "Dúplex + Terraza", area: "89.92", status: "disponible", dorm: "2 dormitorios", banos: "2 baños", extra: "Terraza 8.19 m²", ficha: "img/fichas/C10.jpg", thumb: "img/fichas/thumbs/C10.jpg" },
       { code: "C11", title: "Dep. C11", tag: "Dúplex + Terraza", area: "83.48", status: "disponible", dorm: "2 dormitorios", banos: "2 baños", extra: "Terraza 8.22 m²", ficha: "img/fichas/C11.jpg", thumb: "img/fichas/thumbs/C11.jpg" },
       { code: "C12", title: "Dep. C12", tag: "Dúplex + Terraza", area: "Consultar", status: "reservado", dorm: "2 dormitorios", banos: "2 baños", extra: "Terraza 22.64 m²", ficha: "img/fichas/C12.jpg", thumb: "img/fichas/thumbs/C12.jpg" }
     ]
